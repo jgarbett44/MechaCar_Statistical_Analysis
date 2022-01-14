@@ -34,18 +34,12 @@ Lots 1 and 2 p-value is above our significance level and we would state that the
 
 We will compare the resale value of the MechaCar to its competition.
 
-What is null hypothesis or alternate hypothesis?
-
 Null hypothesis: Differences in resale vale among MechaCar and its competitors can be explained by random chance.
 
 Alt hypothesis: If MechaCar is perceived an an above-average product, then resale value will be higher for MechaCar than for competitors with the same starting price.
 
 
-What statistical test to test hypothesis? Why?
-
-Two-sample T-test because resale value is an estimate, based on sample instead of population data.
+We will use a two-sample T-test because resale value is an estimate, based on sample instead of population data.
 
 
-What data is needed?
-
-MSRP and resale data for MechaCar and for competitors at the same staring price point.
+MSRP and resale data is needed, both for MechaCar and for the competitors at the same staring price point.

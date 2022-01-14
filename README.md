@@ -34,7 +34,7 @@ Lots 1 and 2 p-value is above our significance level and we would state that the
 
 We will compare the resale value of the MechaCar to its competition.
 
-Null hypothesis: Differences in resale vale among MechaCar and its competitors can be explained by random chance.
+Null hypothesis: Differences in resale value among MechaCar and its competitors can be explained by random chance.
 
 Alt hypothesis: If MechaCar is perceived an an above-average product, then resale value will be higher for MechaCar than for competitors with the same starting price.
 
